@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "v1.0",
+    "description": "The label for version v1.0"
+  },
+  "sidebar.tutorialSidebar.category.更新日志": {
+    "message": "更新日志",
+    "description": "The label for category 更新日志 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.更新日志.link.generated-index.description": {
+    "message": "每次更新迭代会在这里有完整的记录，建议收藏",
+    "description": "The generated-index page description for category 更新日志 in sidebar tutorialSidebar"
+  }
+}

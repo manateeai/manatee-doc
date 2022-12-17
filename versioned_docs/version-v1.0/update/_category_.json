@@ -1,0 +1,9 @@
+{
+  "label": "更新日志",
+  "position": 99,
+  "link": {
+    "type": "generated-index",
+    "title": "更新日志",
+    "description": "每次更新迭代会在这里有完整的记录，建议收藏"
+  }
+}
